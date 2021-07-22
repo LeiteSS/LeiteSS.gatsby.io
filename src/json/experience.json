@@ -1,0 +1,100 @@
+[
+  {
+    "company": "@digitalinnovationone",
+    "experienceLink": "/404/",
+    "dates": "março de 2021 — Atualmente",
+    "position": "Desenvolvimento Fullstack",
+    "copy": "Na Digital Innovation One, re-aprendi a escrever programas usando a linguagem de programação Java e em C#; e aprendi a desenvolver Application Programming Interface, ou simplesmente API. Porém, o foco dos bootcamps na Digital Innovation One é o desenvolvimento usando micro-serviço, independente da linguagem.",
+    "jobFeatures": [
+      "Java",
+      "React",
+      "Angular",
+      "C#",
+      "Micro serviços",
+      "Docker",
+      "Kubernetes",
+      "Swagger",
+      "Postman",
+      "API Rest"
+    ],
+    "open": true
+  },
+  {
+    "company": "@autoditada",
+    "experienceLink": "/404/",
+    "dates": "novembro de 2016 — Atualmente",
+    "position": "Autoditada",
+    "copy": "Sendo um autoditada, eu pude aprender Inglês, do qual graças a EF Set, posso certificar os meus conhecimentos neste idioma. Além disso, sozinho aprendi Flutter e desenvolvimento web.",
+    "jobFeatures": [
+      "Inglês",
+      "Flutter",
+      "CSS",
+      "HTML",
+      "Javascript"
+    ],
+    "open": true
+  },
+  {
+    "company": "@após a faculdade",
+    "experienceLink": "/404/",
+    "dates": "junho de 2019 — dezembro de 2019",
+    "position": "Projetista",
+    "copy": "Após a faculdade, aprendi a programar em C++ para poder projetar prototipos na plataforma Arduino usando a logica não-classica Paraconsistente. Além disso, o outro projeto desenvolvido foi um programa que extrai o histograma de uma determinada imagem e salva em um arquivo de texto, depois esse arquivo de texto gerado seria analisado por um controlador lógico (logica não-classica Paraconsistente) para que pudesse ser dito se a imagem era de uma pessoa com cancer de pele ou verruga. Estes projeto foram desenvolvidos a fim de conseguir uma bolsa de estudos de pós-graduação em Engenharia de Produção",
+    "jobFeatures": [
+      "Logica não-classica Paraconsistente",
+      "C++",
+      "Arduino",
+      "OpenCv",
+      "Eletronica"
+    ],
+    "open": false
+  },
+  {
+    "company": "@unip",
+    "experienceLink": "/404/",
+    "dates": "agosto de 2017 — junho de 2019",
+    "position": "Analise e Desenvolvimento de Sistemas",
+    "copy": "Me graduei em Analise e Desenvolvimento de Sistemas, na Universidade Paulista (UNIP). Nela eu aprendi a desenvolver sistemas e a programar, pois antes eu não sabia; além disso, aprendi a documentar projetos usando a Unified Modeling Language (ou simplesmente UML) e boas praticas de software. As linguagens que aprendi neste curso foram: C#, C e Java, sendo que em C# foi visto o desenvolvimento fullstack de sistemas portaveis para desktop e web, enquanto que Java foi visto o desenvolvimento Mobile para Android.",
+    "jobFeatures": [
+      "C#",
+      "Java",
+      "C",
+      "HTML",
+      "CSS",
+      "MySQL",
+      "SQL Server",
+      "Design Patterns",
+      "UML"
+    ],
+    "open": false
+  },
+  {
+    "company": "@masterTheMainframe",
+    "experienceLink": "/404/",
+    "dates": "novembro de 2018 — dezembro de 2018",
+    "position": "Mestre do Mainframe",
+    "copy": "Concurso da IBM, onde os candidatos devem realizar tarefas em um dos mainframes da IBM, do qual tem o sistema operacional Z/os. Neste concurso, foi necessario aprender a sintaxe da linguagem de programação Rexx e também tive que pesquisar um pouco sobre Assembly (linguagem de montagem) para poder resolver um dos desafios, além de exigir conhecimentos prévios em Java, SQL, C/C++. Neste concurso, consegui obter o badge das três etapas do concurso.",
+    "jobFeatures": [
+      "Rexx",
+      "Z/os",
+      "SQL",
+      "Java",
+      "Assemby",
+      "C/C++"
+    ],
+    "open": false
+  },
+  {
+    "company": "@cine & arte",
+    "experienceLink": "/404/",
+    "dates": "setembro de 2016 — novembro de 2016",
+    "position": "Editor de foto",
+    "copy": "Cine & Arte é um evento realizado pela diretoria de Itaquaquecetuba, onde os alunos devem produzir um curta-metragem. Neste ano ganhamos o prêmio de melhores efeitos especiais e foi quando eu aprendi a fazer montagens usando o Photoshop e foi quando eu também aprendi como fazer efeitos usando varias fotos (movimentar um objeto, por exemplo).",
+    "jobFeatures": [
+      "Photoshop",
+      "Efeitos especiais",
+      "Fotografia"
+    ],
+    "open": false
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "title": "Super Powers With WebFlux",
+    "classes": "featured feature-1",
+    "description": "No back-end desse app é possivel cadastrar, atualizar, listar todos, encontrar pelo id e deletar um heroi. Entretanto, no front-end desse app, o cliente quer fazer um blog, portanto aquilo que foi cadastrado deverá ser apresentado para o usuario no formato de posts. Neste projeto foi aprendido a desenvolver APIs reativas.",
+    "techList": [
+      "Angular",
+      "Java",
+      "MongoDB Reactive",
+      "Spring Boot",
+      "Docker",
+      "Swagger",
+      "TailwindCSS",
+      "Heroku",
+      "Postman"
+    ],
+    "img": "marvel-vs-dc.jpg",
+    "siteLink": "https://app-for-heroes.netlify.app",
+    "codeLink": "https://github.com/LeiteSS/APIGerenciadorDeHerois",
+    "featured": true
+  },
+  {
+    "title": "Beer Stock",
+    "classes": "project",
+    "description": "App para administrar a quantidade de cervejas no estoque de uma adega. É possivel cadastrar, atualizar, incrementar e decrementar; e deletar cervejas. Neste projeto, aprendi Test-Drive Development na pratica.",
+    "techList": [
+      "Angular",
+      "Java",
+      "Swagger",
+      "H2 Database",
+      "Spring Boot",
+      "Heroku",
+      "TDD",
+      "Postman"
+    ],
+    "img": "beer.png",
+    "codeLink": "https://github.com/LeiteSS/ApiEstoqueDeCervejas",
+    "siteLink": "https://beer-stock.netlify.app",
+    "featured": false
+  },
+  {
+    "title": "E-commerce",
+    "classes": "project",
+    "description": "Como todo e-commerce, este possui um dominio que cuida do checkout e outro dominio que cuida do pagamento. Esta foi a minha primeira API que interage com outra API (desenvolvimento de micro serviços usando message broker). Entretanto, desenvolvi um front-end que usa as bibliotecas Commerce.js e Stripe para poder representar o projeto final.",
+    "techList": [
+      "ReactJs",
+      "Java",
+      "Spring Boot",
+      "Commerce.js",
+      "PostgreSQL",
+      "Docker",
+      "Stripe",
+      "Apache Kafka",
+      "Apache Zookeeper",
+      "Apache Avro",
+      "Netlify",
+      "Postman"
+    ],
+    "img": "e-commerce.png",
+    "codeLink": "https://github.com/LeiteSS/E-Commerce",
+    "siteLink": "https://molo-laben.netlify.app",
+    "featured": false
+  },
+  {
+    "title": "Pokedex",
+    "classes": "project",
+    "description": "Desafio onde o objetivo era desenvolver uma Pokedex.",
+    "techList": [
+      "Javascript",
+      "CSS",
+      "HTML",
+      "Github Pages"
+    ],
+    "img": "pokedex.png",
+    "codeLink": "https://github.com/LeiteSS/pokedex",
+    "siteLink": "https://leitess.github.io/pokedex/",
+    "featured": false
+  },
+  {
+    "title": "Sistemas de orçamentos",
+    "classes": "feature-2 featured",
+    "description": "Projeto que comtempla dois serviços Quarkus que se comunicam atravé de um barramento assíncrono usando o Kafka. Este foi o primeiro projeto desenvolvido usando o padrão Command-query separation, ou simplesmente CQRS. O testes de performance foram realizados usando a biblioteca k6.",
+    "techList": [
+      "Java",
+      "PostgreSQL",
+      "Quarkus",
+      "CQRS",
+      "Kubernetes",
+      "K6"
+    ],
+    "codeLink": "https://github.com/LeiteSS/SistemaOrcamentos",
+    "featured": true
+  },
+  {
+    "title": "Sistema de Controle de Ponto e Acesso",
+    "classes": "project",
+    "description": "API Rest para controle de ponto e acesso dos usuarios de uma empresa.",
+    "techList": [
+      "Java",
+      "Spring Boot",
+      "Hibernate Envers",
+      "Swagger"
+    ],
+    "img": "acess-point.jpg",
+    "codeLink": "https://github.com/LeiteSS/ApiAccessPoint",
+    "featured": false
+  },
+  {
+    "title": "Distancia das cidades brasileiras",
+    "classes": "project",
+    "description": "API Rest para calcular a distancia entre as cidades brasileiras.",
+    "techList": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "Swagger",
+      "Docker",
+      "Hibernate Types",
+      "Postman"
+    ],
+    "codeLink": "https://github.com/LeiteSS/DistanceBetweenCities",
+    "featured": false
+  },
+  {
+    "title": "MeetApp",
+    "classes": "project",
+    "description": "Aplicação para poder registrar reuniões e encontros. Este foi o meu primeiro que tem um front-end; desenvolvido em Angular",
+    "techList": [
+      "Java",
+      "Spring Boot",
+      "H2 Database",
+      "Swagger",
+      "Angular",
+      "Postman",
+      "Angular"
+    ],
+    "img": "meet-app.jpg",
+    "codeLink": "https://github.com/LeiteSS/MeetingRoom",
+    "featured": false
+  },
+  {
+    "title": "Santander Dev Week",
+    "classes": "feature-2 featured",
+    "description": "API para poder registrar, atualizar, deletar e listar ações das empresas cadastradas na B3. Contudo, o front-end mostra apenas estas ações",
+    "techList": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "Swagger",
+      "Node Js",
+      "Angular",
+      "Docker"
+    ],
+    "img": "santander.jpg",
+    "codeLink": "https://github.com/LeiteSS/SantanderDevWeek",
+    "siteLink": "https://leitess.github.io/santander-app/dashboard",
+    "featured": true
+  },
+  {
+    "title": "Spring Cloud Microservices",
+    "classes": "project",
+    "description": "Projeto que visa em cadastrar produtos de uma loja e apresentar para o cliente poder colocar em um carrinho. Este projeto tem dois dominios: o carrinho de compras e o catálogo de produtos.",
+    "techList": [
+      "Java",
+      "Spring Boot",
+      "Spring Cloud",
+      "Docker",
+      "Redis",
+      "Elastic Search",
+      "Netflix Eureka Server",
+      "Actuator"
+    ],
+    "codeLink": "https://github.com/LeiteSS/people-api",
+    "featured": false
+  },
+  {
+    "title": "Crowfunding App",
+    "classes": "project",
+    "description": "Permite realizar doações para vaquinhas abertas, de forma anônima ou não, além de saber quando que foi feito a doação e quem foi o doador. Além disso, é possivel saber para quais organizações irão as doações, contudo há uma meta mostrada na pagina principal. Na aplicação foi implementada validações como por exemplo: a validade do cartão, o numero do cartão e o telefone. Nenhum campo pode está em branco, a não ser que a doção foi feita de forma anônima.",
+    "techList": [
+      "C#",
+      "XUnit",
+      "Asp.net MVC",
+      "Asp.net Api",
+      "MySQL"
+    ],
+    "codeLink": "https://github.com/LeiteSS/people-api",
+    "featured": false
+  },
+  {
+    "title": "Minha primeira API",
+    "classes": "project",
+    "description": "API para poder registrar, atualizar, deletar e listar pessoas cadastradas. Esta API dá inicio a minha aventura na <a href='https://digitalinnovation.one' target='_blank'>DIO</a>",
+    "techList": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "Swagger",
+      "Node Js",
+      "Angular",
+      "Docker"
+    ],
+    "img": "person-male.jpg",
+    "codeLink": "https://github.com/LeiteSS/people-api",
+    "featured": false
+  }
+]
