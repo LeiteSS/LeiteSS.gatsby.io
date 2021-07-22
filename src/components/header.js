@@ -86,8 +86,7 @@ const Header = ({ data, bgColor }) => {
   const items = [one, two, three, four];
 
   return (
-    <Head bgColor={bgColor} id="intro">
-      <Element name="intro"/>
+    <Head bgColor={bgColor}>
       <Container>
           <TransitionGroup>
             {isMounted &&
