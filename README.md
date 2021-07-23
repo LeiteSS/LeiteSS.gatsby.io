@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  <a href="https://themilstripes.gatsbyjs.io/" target="_blank">The Milk Stripes</a>
+  <a href="https://themilkstripes.gatsbyjs.io/" target="_blank">The Milk Stripes</a>
 </h1>
 
 Este é o meu portfólio, desenvolvido usando Gatsby, Gatsby Cloud e React. Usando como template o portfolio do [Cade Kynaston](https://github.com/cadekynaston/gatsby-portfolio). Entretanto, minha inspiração esta em conseguir desenvolver um site proximo ao do [ToyFight](https://toyfight.co), do qual tem algumas caracteristicas bonitas, na minha opinião.
